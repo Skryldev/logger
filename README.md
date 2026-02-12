@@ -51,7 +51,7 @@
 ## ⚙️ نصب
 
 ```bash
-go get github.com/your-org/enterprise-logger
+go get github.com/Skryldev/logger
 ```
 
 ---
